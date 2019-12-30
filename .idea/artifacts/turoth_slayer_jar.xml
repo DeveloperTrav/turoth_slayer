@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="turoth_slayer:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="turoth_slayer.jar">
+      <element id="module-output" name="turoth_slayer" />
+    </root>
+  </artifact>
+</component>
